@@ -1,0 +1,25 @@
+11/11/2018 - 19:21:34 : request to /api/products
+11/11/2018 - 19:21:34 : response from /api/products
+11/11/2018 - 19:21:34 : method GET
+11/11/2018 - 19:21:34 : status code 200
+-----
+11/11/2018 - 19:21:45 : request to /api/products/1
+11/11/2018 - 19:21:45 : response from /api/products/1
+11/11/2018 - 19:21:45 : method GET
+11/11/2018 - 19:21:45 : status code 200
+-----
+11/11/2018 - 19:22:03 : request to /api/products
+11/11/2018 - 19:22:03 : response from /api/products
+11/11/2018 - 19:22:03 : method POST
+11/11/2018 - 19:22:03 : status code 400
+-----
+11/11/2018 - 19:22:22 : request to /error
+11/11/2018 - 19:22:22 : response from /error
+11/11/2018 - 19:22:22 : method PUT
+11/11/2018 - 19:22:22 : status code 405
+-----
+11/11/2018 - 19:22:38 : request to /api/products/1
+11/11/2018 - 19:22:38 : response from /api/products/1
+11/11/2018 - 19:22:38 : method PUT
+11/11/2018 - 19:22:38 : status code 400
+-----
