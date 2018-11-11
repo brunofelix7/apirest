@@ -22,5 +22,7 @@ public class ApirestApplication implements CommandLineRunner {
 	}
 
 	/* Heroku - JWT - S3 - Docker - Email - JavaDoc	- mLab (prod) */
+	//	https://www.youtube.com/watch?v=-HYrUs1ZCLI
+	//	https://www.youtube.com/watch?v=FLSdkP33Lwo&index=6&list=PL8iIphQOyG-D2FP9wkg12AavzmVRWEcnJ
 
 }
