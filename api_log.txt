@@ -1,25 +1,75 @@
-11/11/2018 - 19:21:34 : request to /api/products
-11/11/2018 - 19:21:34 : response from /api/products
-11/11/2018 - 19:21:34 : method GET
-11/11/2018 - 19:21:34 : status code 200
+12/11/2018 - 15:01:16 : method GET
+-----/2018 - 15:01:16 : status code 200
 -----
-11/11/2018 - 19:21:45 : request to /api/products/1
-11/11/2018 - 19:21:45 : response from /api/products/1
-11/11/2018 - 19:21:45 : method GET
-11/11/2018 - 19:21:45 : status code 200
 -----
-11/11/2018 - 19:22:03 : request to /api/products
-11/11/2018 - 19:22:03 : response from /api/products
-11/11/2018 - 19:22:03 : method POST
-11/11/2018 - 19:22:03 : status code 400
+12/11/2018 - 15:01:16 : response from /webjars/springfox-swagger-ui/swagger-ui-bundle.js
+12/11/2018 - 15:01:16 : method GET
+12/11/2018 - 15:01:16 : status code 200
 -----
-11/11/2018 - 19:22:22 : request to /error
-11/11/2018 - 19:22:22 : response from /error
-11/11/2018 - 19:22:22 : method PUT
-11/11/2018 - 19:22:22 : status code 405
+12/11/2018 - 15:01:17 : request to /swagger-resources/configuration/ui
+12/11/2018 - 15:01:17 : response from /swagger-resources/configuration/ui
+12/11/2018 - 15:01:17 : method GET
+12/11/2018 - 15:01:17 : status code 200
 -----
-11/11/2018 - 19:22:38 : request to /api/products/1
-11/11/2018 - 19:22:38 : response from /api/products/1
-11/11/2018 - 19:22:38 : method PUT
-11/11/2018 - 19:22:38 : status code 400
+12/11/2018 - 15:01:17 : request to /swagger-resources/configuration/security
+12/11/2018 - 15:01:17 : response from /swagger-resources/configuration/security
+12/11/2018 - 15:01:17 : method GET
+12/11/2018 - 15:01:17 : status code 200
+-----
+12/11/2018 - 15:01:17 : request to /swagger-resources
+12/11/2018 - 15:01:17 : response from /swagger-resources
+12/11/2018 - 15:01:17 : method GET
+12/11/2018 - 15:01:17 : status code 200
+-----
+12/11/2018 - 15:01:17 : request to /
+12/11/2018 - 15:01:17 : request to /webjars/springfox-swagger-ui/fonts/titillium-web-v6-latin-700.woff2
+12/11/2018 - 15:01:17 : response from /
+12/11/2018 - 15:01:17 : method GET
+12/11/2018 - 15:01:17 : status code 404
+12/11/2018 - 15:01:17 : method GET
+12/11/2018 - 15:01:17 : status code 200
+-----
+12/11/2018 - 15:01:17 : request to /error
+12/11/2018 - 15:01:17 : request to /webjars/springfox-swagger-ui/fonts/open-sans-v15-latin-regular.woff2
+12/11/2018 - 15:01:17 : response from /webjars/springfox-swagger-ui/fonts/open-sans-v15-latin-regular.woff2
+12/11/2018 - 15:01:17 : method GETrom /error
+12/11/2018 - 15:01:17 : method GET
+12/11/2018 - 15:01:17 : status code 404
+-----
+12/11/2018 - 15:01:17 : request to /csrf
+12/11/2018 - 15:01:18 : response from /csrf
+12/11/2018 - 15:01:18 : method GET
+12/11/2018 - 15:01:18 : status code 404
+-----
+12/11/2018 - 15:01:18 : request to /error
+12/11/2018 - 15:01:18 : response from /error
+12/11/2018 - 15:01:18 : method GET
+12/11/2018 - 15:01:18 : status code 404
+-----
+12/11/2018 - 15:01:18 : request to /webjars/springfox-swagger-ui/fonts/open-sans-v15-latin-700.woff2
+12/11/2018 - 15:01:18 : request to /webjars/springfox-swagger-ui/fonts/source-code-pro-v7-latin-300.woff2
+12/11/2018 - 15:01:18 : response from /webjars/springfox-swagger-ui/fonts/open-sans-v15-latin-700.woff2
+12/11/2018 - 15:01:18 : method GETrom /webjars/springfox-swagger-ui/fonts/source-code-pro-v7-latin-300.woff2
+12/11/2018 - 15:01:18 : method GET
+12/11/2018 - 15:01:18 : status code 200
+-----
+12/11/2018 - 15:01:19 : request to /webjars/springfox-swagger-ui/fonts/source-code-pro-v7-latin-600.woff2
+12/11/2018 - 15:01:19 : response from /webjars/springfox-swagger-ui/fonts/source-code-pro-v7-latin-600.woff2
+12/11/2018 - 15:01:19 : method GET
+12/11/2018 - 15:01:19 : status code 200
+-----
+12/11/2018 - 15:01:21 : request to /webjars/springfox-swagger-ui/fonts/titillium-web-v6-latin-regular.woff2
+12/11/2018 - 15:01:21 : response from /webjars/springfox-swagger-ui/fonts/titillium-web-v6-latin-regular.woff2
+12/11/2018 - 15:01:21 : method GET
+12/11/2018 - 15:01:21 : status code 200
+-----
+12/11/2018 - 15:01:23 : request to /api/products
+12/11/2018 - 15:01:23 : response from /api/products
+12/11/2018 - 15:01:23 : method GET
+12/11/2018 - 15:01:23 : status code 200
+-----
+12/11/2018 - 15:01:23 : request to /webjars/springfox-swagger-ui/fonts/titillium-web-v6-latin-600.woff2
+12/11/2018 - 15:01:23 : response from /webjars/springfox-swagger-ui/fonts/titillium-web-v6-latin-600.woff2
+12/11/2018 - 15:01:23 : method GET
+12/11/2018 - 15:01:23 : status code 200
 -----

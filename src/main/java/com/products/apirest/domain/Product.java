@@ -1,7 +1,7 @@
 package com.products.apirest.domain;
 
+import io.swagger.annotations.ApiModel;
 import org.hibernate.validator.constraints.Length;
-
 import javax.persistence.*;
 import javax.validation.constraints.NotEmpty;
 import javax.validation.constraints.NotNull;
@@ -10,6 +10,7 @@ import java.math.BigDecimal;
 
 @Entity
 @Table(name = "products")
+@ApiModel
 public class Product implements Serializable {
     private static final long serialVersionUID = 1L;
 

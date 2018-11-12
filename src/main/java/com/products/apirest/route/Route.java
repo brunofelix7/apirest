@@ -9,7 +9,7 @@ public class Route {
     public static final String H2_URL = "http://localhost:8080/h2";
 
     //  SWAGGER
-    public static final String SWAGGER_URL = "http://localhost:8080/swagger-ui.html/";
+    public static final String SWAGGER_URL = "http://localhost:8080/swagger-ui.html";
 
     //  URIs
     public static final String URI_AUTH = "api/auth";
